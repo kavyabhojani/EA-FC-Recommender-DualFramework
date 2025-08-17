@@ -10,6 +10,14 @@ It’s designed to:
 
 ---
 
+## Demo Preview
+
+![Demo Screenshot](demo/demo_preview.png)  
+*Streamlit app showing personalized recommendations with user controls.*
+
+---
+
+
 ## Project Plan
 
 ### **Phase 1 — Data Foundation** 
@@ -51,4 +59,5 @@ It’s designed to:
 git clone https://github.com/<your-username>/ea-fc-recommender-dualframework.git
 cd ea-fc-recommender-dualframework
 python -m venv .venv && source .venv/bin/activate
+
 pip install -r requirements.txt

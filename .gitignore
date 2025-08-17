@@ -2,6 +2,6 @@
 __pycache__/
 *.pyc
 .DS_Store
-data/processed/*
+!data/processed/*.parquet
 data/raw/*
 *.log
